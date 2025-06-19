@@ -1,1 +1,1 @@
-az ad sp create-for-rbac --name "githubactionazure" --role contributor --scopes /subscriptions/xxxxx/resourceGroups/rg-namexxx
+az ad sp create-for-rbac --name "githubactionazure" --role contributor --scopes /subscriptions/xxxxx/resourceGroups/rg-namexxx --sdk-auth
