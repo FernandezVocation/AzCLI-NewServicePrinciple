@@ -1,0 +1,1 @@
+az ad sp create-for-rbac --name "githubactionazure" --role contributor --scope /subscriptions/xxxxx/resourceGroups/rg-namexxx
